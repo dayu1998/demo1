@@ -13,7 +13,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 @RestController
 @RequestMapping(value = "/admin")
-//dwad/
+//dwad/test1
 public class AdminController {
 
 }
